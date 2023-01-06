@@ -5,7 +5,7 @@
 
 
 <table align="center"><tr>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### Frameworks
 <div align="center">
@@ -15,7 +15,7 @@
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### Languages
 <div align="center">
@@ -26,7 +26,7 @@
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### Infra
 <div align="center">
@@ -37,7 +37,9 @@
 
 </td>
 
-<td valign="top" width="25%">
+</tr></table>
+
+<br/>
 
 ### Libraries
 <div align="center">
@@ -47,11 +49,6 @@
 </div>
 
 </td>
-
-</tr></table>
-
-<br/>
-
 
 
 <!-- github stats -->
