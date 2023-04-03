@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm NotNullDev</h1>
 <h3 align="center">I like to build things.</h3>
 
-I am currently working on [Nano Managament](https://github.com/NotNullDev/nano-management)
-
 <br/>
 
 <div align="center">
